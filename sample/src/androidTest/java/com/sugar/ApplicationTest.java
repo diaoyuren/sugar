@@ -1,4 +1,4 @@
-package com.sugartong;
+package com.sugar;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
