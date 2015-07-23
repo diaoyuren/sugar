@@ -1,4 +1,4 @@
-package com.sugartong;
+package com.sugar;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

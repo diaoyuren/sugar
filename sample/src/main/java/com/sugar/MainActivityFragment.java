@@ -1,4 +1,4 @@
-package com.sugartong;
+package com.sugar;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
